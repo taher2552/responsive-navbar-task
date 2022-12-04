@@ -152,11 +152,7 @@ display: none;
     
 }
 
-.responsive ul li a:hover{
-    cursor:pointer;
-    background-color: rgb(151, 243, 243);
-   
-}
+
 
 .responsive ul li a{
     text-decoration: none;
